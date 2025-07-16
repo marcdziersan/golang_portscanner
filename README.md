@@ -39,7 +39,7 @@ Scan abgeschlossen.
 ### Kompilieren
 
 ```bash
-git clone https://github.com/deinuser/multiscanner.git
+git clone https://github.com/marcdziersan/golang_portscanner.git
 cd multiscanner
 go build -o multiscanner multiscanner.go
 ```
@@ -93,7 +93,6 @@ Dieser Scanner ist für **lokale** Netzwerke gedacht. Der Einsatz in fremden Net
 ## 🧑‍💻 Autor
 
 **Marcus Dziersan**  
-Projektname: **TwistedScan**  
 Lizenz: MIT
 
 ---
